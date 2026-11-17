@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="va5M17Gq9Zp3yLQcG1nhDy-OgLFNP2fXT3q2tdYMCfY" />
   <title>2026 동행복권 정규분포 통계 데이터셋(로또디비·로또DB) 및 사전동의 웹훅 표준 아카이브</title>
   <meta name="description" content="동행복권 역대 당첨번호 홀짝·고저·AC값 정규분포 알고리즘 및 개인정보보호법 제15조 준수 로또디비(로또DB) 실시간 0.3초 웹훅 기술 명세서.">
   <link rel="canonical" href="https://lottodb24.com/">
