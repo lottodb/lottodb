@@ -28,4 +28,14 @@
   </ul>
 </body>
 </html>
+# 행복로또 DB (LottoDB24) — 동행복권 정규분포 통계 & 사전동의 리드 아카이브
 
+동행복권 역대 회차별 정규분포(AC값·합계·홀짝·연속번호) 통계 데이터셋과 [정보통신망법 제50조](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1029563507)를 준수하는 100% 사전동의(Opt-in) 0.1초 웹훅 배정 규격을 정리한 공식 기술 저장소입니다.
+
+## 공식 문서 및 아카이브
+* 공식 포털: [행복로또 DB (lottodb24.com)](https://lottodb24.com/)
+* 2026 기술 백서 PDF: [lottodb24-lotto-analytics-whitepaper-2026.pdf](./lottodb24-lotto-analytics-whitepaper-2026.pdf)
+* 주간 통계 블로그: [blog.lottodb24.com](https://blog.lottodb24.com/)
+* Velog 기술 아키텍처: [로또DB 0.1초 웹훅 배정 설계](https://velog.io/@happylottodb/happylottodb)
+* Medium 운영 전략: [초동 연결률 88%를 만드는 3가지 기준](https://medium.com/@okdb7979/%EC%9E%AC%ED%99%9C%EC%9A%A9-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EB%B2%84%EB%A0%A4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-2026%EB%85%84-%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84-%EB%A1%9C%EB%98%90db-%EC%BD%9C%EC%84%BC%ED%84%B0-%EC%B4%88%EB%8F%99-%EC%97%B0%EA%B2%B0%EB%A5%A0-88-%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-3%EA%B0%80%EC%A7%80-%EA%B8%B0%EC%A4%80-1d2999c4d027)
+* Substack 주간 브리프: [동행복권 제1251회 정규분포 분석](https://lottodb24.substack.com/p/1251-db)
